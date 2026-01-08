@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sabbir</h1>
-<h3 align="center">A Passionate Web Developer from Bangladesh 🇧🇩</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mohammad+Ismail+Hossain;MERN+Stack+Web+Developer;Passionate+Web+Engineer" />
+</h1>
+
+<h3 align="center">🚀 MERN Stack Web Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
@@ -7,22 +10,50 @@
 
 ---
 
-## 🚀 About Me
-- 💻 I’m a **Frontend Web Developer**
-- 🌱 Currently learning **React & Modern Web Technologies**
-- 🔥 Interested in **Full Stack Development**
-- 🎯 Goal: Become a **Professional Software Engineer**
+## 🧑‍💻 About Me
+I am a **MERN Stack Web Developer** passionate about building modern, scalable, and user-friendly web applications using **React, Node.js, Express, and MongoDB**.  
+I love clean UI, smooth UX, and writing maintainable code.
+
+---
+
+## 🎯 Current Focus
+- ⚡ Exploring advanced frontend patterns  
+- 🚀 Growing towards **Full-Stack Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,vite" />
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,postman" />
+</p>
+
+### 🎨 Design & Graphics
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+🖌️ **Also Experienced With:** Pixso
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
@@ -31,25 +62,18 @@
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
----
-
-## 📌 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+## 📫 Contact Me
+- 📧 Email: **programmarsabbir@gmail.com**
+- 📱 Phone: **01619408991**
 
 ---
 
-⭐ **Feel free to check out my repositories and give a star!**
+## 🤝 Let’s Connect
+I’m always open to collaboration, learning opportunities, and exciting projects.  
+Let’s build something amazing together 🚀
