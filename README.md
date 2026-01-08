@@ -5,7 +5,8 @@
 <h3 align="center">🚀 MERN Stack Web Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://i.ibb.co/LhJQnT7R/Screenshot-2026-01-08-224952.png" alt="My Custom Image" />
+
 </p>
 
 ---
