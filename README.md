@@ -45,10 +45,6 @@ I love clean UI, smooth UX, and writing maintainable code.
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,postman" />
 </p>
 
-### 🎨 Design & Graphics
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-</p>
 
 🖌️ **Also Experienced With:** Pixso
 
