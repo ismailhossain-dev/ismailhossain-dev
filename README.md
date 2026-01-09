@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/q3nPyCGK/my-image.png" alt="Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://i.ibb.co.com/QvwFKM4L/banner.png" alt="Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 <!-- Name Typing Animation -->
