@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mohammad+Ismail+Hossain;MERN+Stack+Web+Developer;Passionate+Web+Engineer" />
-</h1>
+</h1> -->
 
 <h3 align="center">🚀 MERN Stack Web Developer from Bangladesh 🇧🇩</h3>
 
