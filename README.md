@@ -5,8 +5,9 @@
 
 <!-- Name Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=C7F464&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ismail+Hossain;Frontend+Developer;MERN+Stack+Developer" alt="Typing Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ismail+Hossain;Frontend+Developer;MERN+Stack+Developer" alt="Typing Name" />
 </h1>
+
 
 ---
 
@@ -37,7 +38,7 @@ I specialize in building **scalable, responsive, and user-friendly web applicati
   <a href="https://www.facebook.com/sujon.prodhan.146" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://github.com/sujunprodhan" target="_blank">
+  <a href="https://github.com/ismailhossain-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
  <a href="https://www.instagram.com/sujondigitalmarketing609/" target="_blank">
