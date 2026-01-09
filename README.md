@@ -16,7 +16,7 @@
 ## 📫 About Me
 
  
-I am Sujun Prodhan a dedicated Frontend & MERN Stack Developer.  
+I am Ismail Hossain a dedicated Frontend & MERN Stack Developer.  
 I specialize in building **scalable, responsive, and user-friendly web applications**.  
 
 - 🌱 Currently improving my skills in **Next.js, TypeScript, and advanced React patterns**  
