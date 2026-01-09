@@ -5,8 +5,7 @@
 <h3 align="center">🚀 MERN Stack Web Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/LhJQnT7R/Screenshot-2026-01-08-224952.png" alt="My Custom Image" />
-
+  <img src="https://i.ibb.co/LhJQnT7R/Screenshot-2026-01-08-224952.png" alt="Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 ---
