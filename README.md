@@ -63,8 +63,16 @@
 ### 🛠️ Tools & Systems
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,vscode" />
   </a>
+</p>
+
+<br/>
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailhossain-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailhossain-dev&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
 </p>
 
 <br/>
