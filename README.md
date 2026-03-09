@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/ddfgi0gdr/image/upload/v1773014754/photo_2026-03-09_06-03-47_fhrafa.jpg" alt="Ismail Banner" width="100%">
+ <p align="center">
+  <img src="https://res.cloudinary.com/ddfgi0gdr/image/upload/v1773014754/photo_2026-03-09_06-03-47_fhrafa.jpg" alt="Ismail Banner" width="100%" height="400px">
 </p>
 
 <br/>
@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m **[@ismailhossain-dev](https://github.com/ismailhossain-dev)**
 - 🖥️ I am a dedicated **Frontend & MERN Stack Developer**.
-- 🚀 Currently working on **React.js, Next.js, and TypeScript**.
+- 🚀 Currently working on **React.js, Next.js**.
 - 🗄️ Backend expertise in **Node.js, Express.js, and MongoDB**.
 - 💼 Offering professional **Web Design & Development services**.
 - 📫 Reach me via **[Email](mailto:programmarsabbir@gmail.com)**
@@ -28,16 +28,16 @@
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ismail-hossain-web-development/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammad-ismail-hossain-475183396/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://web.facebook.com/md.sabbir.926093" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
-  <a href="https://www.instagram.com/sabbir.69k/" target="_blank">
+  <a href="https://www.instagram.com/dev.sabbir69k" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="discord.com/users/1425678608764243999" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
   <a href="https://github.com/ismailhossain-dev" target="_blank">
