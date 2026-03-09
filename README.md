@@ -49,7 +49,7 @@
 ### 🎨 Frontend & Design
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
   </a>
 </p>
 
