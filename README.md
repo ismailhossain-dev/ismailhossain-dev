@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/gbxqzNCM/my-image.png" alt="Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://res.cloudinary.com/ddfgi0gdr/image/upload/v1773014754/photo_2026-03-09_06-03-47_fhrafa.jpg" />
 </p>
 
 <!-- Name Typing Animation -->
