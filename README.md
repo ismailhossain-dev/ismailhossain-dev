@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://res.cloudinary.com/ddfgi0gdr/image/upload/v1773014754/photo_2026-03-09_06-03-47_fhrafa.jpg" alt="Ismail Banner" width="100%" height="400px">
+  <img src="https://res.cloudinary.com/ddfgi0gdr/image/upload/v1782218775/banner_ee7qif.png" alt="Ismail Banner" width="100%" height="400px">
 </p>
 
 <br/>
