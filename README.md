@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m **[@ismailhossain-dev](https://github.com/ismailhossain-dev)**
 - 🖥️ I am a dedicated **Frontend & MERN Stack Developer**.
-- 🚀 Currently working on **React.js, Next.js**.
+- 🚀 Currently working on **Redux, PostgreSQL, Prisma**.
 - 🗄️ Backend expertise in **Node.js, Express.js, and MongoDB**.
 - 💼 Offering professional **Web Design & Development services**.
 - 📫 Reach me via **[Email](mailto:ismail.dev69k@gmail.com)**
