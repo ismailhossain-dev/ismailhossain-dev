@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 👋 Hi, I’m **[@ismailhossain-dev](https://github.com/ismailhossain-dev)**
-- 🖥️ I am a dedicated **Frontend & MERN Stack Developer**.
+- 🖥️ I am a dedicated **Full Stack Developer**.
 - 🚀 Currently working on **Database Management System**.
 - 🗄️ Backend expertise in **Node.js, Express.js, and MongoDB**.
 - 💼 Offering professional **Web Design & Development services**.
