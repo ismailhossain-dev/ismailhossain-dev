@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://res.cloudinary.com/ddfgi0gdr/image/upload/v1787889839/gitub-wallpaper_i1fke4.png" alt="Ismail Banner" width="100%" height="400px">
+  <img src="https://res.cloudinary.com/ddfgi0gdr/image/upload/v1788843054/gitbub-banner_ccsbdy.png" alt="Ismail Banner" width="100%" height="400px">
 </p>
 
 <br/>
