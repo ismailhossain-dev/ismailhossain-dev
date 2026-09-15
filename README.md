@@ -6,9 +6,14 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Mohammad Ismail Hossain</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ismail Hossain</h1></summary>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Developer;Creative+Web+Designer;Passionate+Problem+Solver" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Building+Scalable+Web+Applications;Passionate+Problem+Solver"
+    alt="Typing SVG"
+  />
+</a>
   </ul>
 </div>
 
