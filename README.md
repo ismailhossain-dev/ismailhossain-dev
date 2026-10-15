@@ -4,18 +4,44 @@
 
 <br/>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ismail Hossain</h1></summary>
-    <br/>
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Building+Scalable+Web+Applications;Passionate+Problem+Solver"
-    alt="Typing SVG"
-  />
-</a>
-  </ul>
+
+<div align="center">
+
+ 
+<h1>
+  Hi 👋, I'm
+    <span style="color:#22D3EE;">Ismail Hossain</span>
+</h1>
+
+
+  <h3>
+    🚀 Full Stack Developer | MERN Stack | Next.js
+  </h3>
+
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&height=55&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+%26+TypeScript+Developer;Building+Scalable+Web+Applications;Passionate+Problem+Solver"
+      alt="Typing SVG"
+    />
+  </a>
+
+  <p>
+    Building modern, scalable, and user-friendly web applications
+    with clean code and great user experiences.
+  </p>
+
+  <a href="https://github.com/ismailhossain-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-ismail-hossain-sabbir/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://ismailhossain.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
 </div>
+
 
 <br/>
 
